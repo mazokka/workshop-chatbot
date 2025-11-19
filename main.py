@@ -4,7 +4,7 @@ Main Application File
 This is the entry point of the RAG Chatbot application
 
 TODO:
-1. Import all necessary modules:
+1. Import all necessary modules: #hash
    - document_loader
    - text_chunker
    - embeddings
