@@ -1,0 +1,13 @@
+# TODO: Add the following dependencies
+# - google-generativeai (for Gemini API)
+# - PyPDF2 or pdfplumber (for PDF processing)
+# - pandas (for CSV processing)
+# - python-dotenv (for environment variables)
+# - sentence-transformers or similar (for embeddings - optional if using Gemini embeddings)
+
+# Example format:
+# google-generativeai==0.3.0
+# PyPDF2==3.0.1
+# pandas==2.0.3
+# python-dotenv==1.0.0
+
